@@ -42,4 +42,5 @@ $c2 = $c1->F1();
 
 $c2->F();
 echo "mint cute pho mai que";
+echo "Sua lan 3";
 ?>
