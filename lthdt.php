@@ -41,5 +41,10 @@ $c1 = new C();
 $c2 = $c1->F1();
 
 $c2->F();
+
 echo "giang ne";
+
+echo "mint cute pho mai que";
+echo "Sua lan 3";
+
 ?>
